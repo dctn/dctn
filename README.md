@@ -6,6 +6,12 @@
 # 💫 About Me:
 I'm a student with a passion for technology and continuous learning. Currently exploring:<br>- 🌐 Web Development<br>- 🤖 Machine Learning & Data Science<br>- 💻 Programming & Problem Solving
 
+# Open Source:
+![GitHub Contributions Widget](https://github-contributions-widget.oxwazz.com/dctn)
+
+[![my open-source contributions](https://img.shields.io/badge/my%20open--source%20contributions-click%20here-blue?style=for-the-badge&logo=github&link=https://my-open-source-contributions.vercel.app/dctn)](https://my-open-source-contributions.vercel.app/dctn)
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zMGHbQD9jC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i_am_stranger_noise/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hmaheswara) 
